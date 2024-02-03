@@ -1,9 +1,9 @@
 # Graded Assignment on Networking and Servers
 # Installation
-# pip install requests
-# pip install prettytable
+* pip install requests
+* pip install prettytable
 # Explanation
-# This script is designed to monitor the status of various subdomains, determining whether they are accessible (up) or not (down). It prints the results in a tabular format in the console.
+* This script is designed to monitor the status of various subdomains, determining whether they are accessible (up) or not (down). It prints the results in a tabular format in the console.
 
 # Functionality
 The script sends HTTP GET requests to each subdomain.
